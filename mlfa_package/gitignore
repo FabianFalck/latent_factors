@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+inst/doc
+
+man/
+mlfa.Rproj
+..pdf
+.*
+mlfa_package.pdf
+mlfa.pdf
+codecov.yml
+README.html
+
+vignettes/mlfa_vignette_files
